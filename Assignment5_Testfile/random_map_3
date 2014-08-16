@@ -1,0 +1,1163 @@
+INTERSECTIONS:
+1	0.7	mountain and 1st
+2	0.9	mountain and 2nd
+3	0.5	mountain and 3rd
+4	0.3	mountain and 4th
+5	0.9	mountain and 5th
+6	0.4	mountain and 6th
+7	0.5	mountain and 7th
+8	0.8	mountain and 8th
+9	0.6	mountain and 9th
+10	0.6	mountain and 10th
+11	0.8	mountain and 21st
+12	0.2	mountain and 22nd
+13	0.7	mountain and 23rd
+14	0.1	mountain and 24th
+15	0.3	mountain and 25th
+16	1.0	mountain and 26th
+17	0.8	mountain and 27th
+18	0.9	mountain and 28th
+19	0.8	mountain and 29th
+20	0.7	mountain and 30th
+21	0.9	elm and 1st
+22	0.8	elm and 2nd
+23	0.7	elm and 3rd
+24	1.0	elm and 4th
+25	0.2	elm and 5th
+26	0.1	elm and 6th
+27	0.5	elm and 7th
+28	0.6	elm and 8th
+29	1.0	elm and 9th
+30	0.3	elm and 10th
+31	0.1	elm and 21st
+32	0.6	elm and 22nd
+33	0.5	elm and 23rd
+34	0.3	elm and 24th
+35	0.2	elm and 25th
+36	0.4	elm and 26th
+37	0.1	elm and 27th
+38	1.0	elm and 28th
+39	0.7	elm and 29th
+40	0.1	elm and 30th
+41	0.3	campbell and 1st
+42	0.5	campbell and 2nd
+43	0.7	campbell and 3rd
+44	0.2	campbell and 4th
+45	0.7	campbell and 5th
+46	1.0	campbell and 6th
+47	0.2	campbell and 7th
+48	0.9	campbell and 8th
+49	1.0	campbell and 9th
+50	0.0	campbell and 10th
+51	0.7	campbell and 21st
+52	1.0	campbell and 22nd
+53	0.6	campbell and 23rd
+54	0.9	campbell and 24th
+55	0.6	campbell and 25th
+56	1.0	campbell and 26th
+57	0.2	campbell and 27th
+58	0.0	campbell and 28th
+59	0.5	campbell and 29th
+60	0.3	campbell and 30th
+61	0.5	grant and 1st
+62	0.2	grant and 2nd
+63	0.3	grant and 3rd
+64	0.5	grant and 4th
+65	0.6	grant and 5th
+66	0.0	grant and 6th
+67	0.1	grant and 7th
+68	0.2	grant and 8th
+69	0.2	grant and 9th
+70	0.2	grant and 10th
+71	0.1	grant and 21st
+72	0.9	grant and 22nd
+73	0.3	grant and 23rd
+74	0.3	grant and 24th
+75	0.9	grant and 25th
+76	0.9	grant and 26th
+77	0.0	grant and 27th
+78	0.4	grant and 28th
+79	0.0	grant and 29th
+80	0.1	grant and 30th
+81	0.7	speedway and 1st
+82	1.0	speedway and 2nd
+83	0.6	speedway and 3rd
+84	0.2	speedway and 4th
+85	0.2	speedway and 5th
+86	0.6	speedway and 6th
+87	0.4	speedway and 7th
+88	1.0	speedway and 8th
+89	0.9	speedway and 9th
+90	0.8	speedway and 10th
+91	0.9	speedway and 21st
+92	0.0	speedway and 22nd
+93	1.0	speedway and 23rd
+94	0.2	speedway and 24th
+95	0.1	speedway and 25th
+96	0.1	speedway and 26th
+97	0.5	speedway and 27th
+98	0.6	speedway and 28th
+99	0.1	speedway and 29th
+100	0.5	speedway and 30th
+101	0.9	dodge and 1st
+102	0.7	dodge and 2nd
+103	0.4	dodge and 3rd
+104	0.9	dodge and 4th
+105	0.8	dodge and 5th
+106	0.8	dodge and 6th
+107	0.4	dodge and 7th
+108	0.8	dodge and 8th
+109	0.4	dodge and 9th
+110	0.2	dodge and 10th
+111	0.2	dodge and 21st
+112	0.1	dodge and 22nd
+113	0.3	dodge and 23rd
+114	0.6	dodge and 24th
+115	0.3	dodge and 25th
+116	0.8	dodge and 26th
+117	0.7	dodge and 27th
+118	0.3	dodge and 28th
+119	0.8	dodge and 29th
+120	0.9	dodge and 30th
+121	1.0	countryclub and 1st
+122	0.2	countryclub and 2nd
+123	0.0	countryclub and 3rd
+124	0.6	countryclub and 4th
+125	1.0	countryclub and 5th
+126	0.9	countryclub and 6th
+127	0.1	countryclub and 7th
+128	0.3	countryclub and 8th
+129	0.5	countryclub and 9th
+130	0.5	countryclub and 10th
+131	1.0	countryclub and 21st
+132	0.8	countryclub and 22nd
+133	0.3	countryclub and 23rd
+134	0.3	countryclub and 24th
+135	1.0	countryclub and 25th
+136	0.1	countryclub and 26th
+137	0.1	countryclub and 27th
+138	0.0	countryclub and 28th
+139	0.8	countryclub and 29th
+140	0.0	countryclub and 30th
+141	0.7	tucson and 1st
+142	1.0	tucson and 2nd
+143	0.2	tucson and 3rd
+144	0.3	tucson and 4th
+145	0.2	tucson and 5th
+146	0.2	tucson and 6th
+147	0.4	tucson and 7th
+148	0.9	tucson and 8th
+149	0.4	tucson and 9th
+150	0.3	tucson and 10th
+151	0.7	tucson and 21st
+152	0.0	tucson and 22nd
+153	0.9	tucson and 23rd
+154	0.0	tucson and 24th
+155	0.5	tucson and 25th
+156	0.6	tucson and 26th
+157	0.1	tucson and 27th
+158	0.8	tucson and 28th
+159	0.0	tucson and 29th
+160	0.8	tucson and 30th
+161	0.9	pima and 1st
+162	0.0	pima and 2nd
+163	0.1	pima and 3rd
+164	0.7	pima and 4th
+165	0.8	pima and 5th
+166	0.4	pima and 6th
+167	0.4	pima and 7th
+168	0.4	pima and 8th
+169	0.0	pima and 9th
+170	0.8	pima and 10th
+171	1.0	pima and 21st
+172	0.1	pima and 22nd
+173	0.8	pima and 23rd
+174	0.4	pima and 24th
+175	0.4	pima and 25th
+176	0.4	pima and 26th
+177	0.0	pima and 27th
+178	0.5	pima and 28th
+179	0.3	pima and 29th
+180	0.5	pima and 30th
+181	0.5	alvemon and 1st
+182	0.7	alvemon and 2nd
+183	0.0	alvemon and 3rd
+184	1.0	alvemon and 4th
+185	0.9	alvemon and 5th
+186	0.9	alvemon and 6th
+187	0.0	alvemon and 7th
+188	0.8	alvemon and 8th
+189	0.7	alvemon and 9th
+190	0.3	alvemon and 10th
+191	0.3	alvemon and 21st
+192	0.0	alvemon and 22nd
+193	0.9	alvemon and 23rd
+194	0.0	alvemon and 24th
+195	0.2	alvemon and 25th
+196	0.8	alvemon and 26th
+197	1.0	alvemon and 27th
+198	0.0	alvemon and 28th
+199	0.8	alvemon and 29th
+200	0.1	alvemon and 30th
+201	0.2	swan and 1st
+202	0.6	swan and 2nd
+203	0.4	swan and 3rd
+204	1.0	swan and 4th
+205	0.0	swan and 5th
+206	0.8	swan and 6th
+207	0.7	swan and 7th
+208	1.0	swan and 8th
+209	0.3	swan and 9th
+210	0.2	swan and 10th
+211	0.2	swan and 21st
+212	0.0	swan and 22nd
+213	0.1	swan and 23rd
+214	0.4	swan and 24th
+215	0.0	swan and 25th
+216	0.1	swan and 26th
+217	0.2	swan and 27th
+218	0.0	swan and 28th
+219	0.8	swan and 29th
+220	0.8	swan and 30th
+221	0.9	columbus and 1st
+222	1.0	columbus and 2nd
+223	1.0	columbus and 3rd
+224	0.3	columbus and 4th
+225	0.1	columbus and 5th
+226	0.3	columbus and 6th
+227	0.1	columbus and 7th
+228	0.8	columbus and 8th
+229	0.7	columbus and 9th
+230	1.0	columbus and 10th
+231	0.4	columbus and 21st
+232	0.8	columbus and 22nd
+233	0.0	columbus and 23rd
+234	0.9	columbus and 24th
+235	0.3	columbus and 25th
+236	1.0	columbus and 26th
+237	0.7	columbus and 27th
+238	0.8	columbus and 28th
+239	0.8	columbus and 29th
+240	0.1	columbus and 30th
+241	1.0	gleen and 1st
+242	0.5	gleen and 2nd
+243	1.0	gleen and 3rd
+244	0.2	gleen and 4th
+245	0.3	gleen and 5th
+246	0.0	gleen and 6th
+247	0.6	gleen and 7th
+248	0.1	gleen and 8th
+249	0.1	gleen and 9th
+250	0.1	gleen and 10th
+251	0.4	gleen and 21st
+252	0.7	gleen and 22nd
+253	0.0	gleen and 23rd
+254	1.0	gleen and 24th
+255	0.8	gleen and 25th
+256	0.3	gleen and 26th
+257	0.0	gleen and 27th
+258	1.0	gleen and 28th
+259	0.2	gleen and 29th
+260	0.0	gleen and 30th
+261	0.1	river and 1st
+262	0.7	river and 2nd
+263	1.0	river and 3rd
+264	0.2	river and 4th
+265	0.5	river and 5th
+266	1.0	river and 6th
+267	0.0	river and 7th
+268	0.6	river and 8th
+269	0.8	river and 9th
+270	0.7	river and 10th
+271	0.2	river and 21st
+272	0.7	river and 22nd
+273	1.0	river and 23rd
+274	0.6	river and 24th
+275	0.7	river and 25th
+276	0.6	river and 26th
+277	0.4	river and 27th
+278	0.1	river and 28th
+279	0.2	river and 29th
+280	0.3	river and 30th
+281	1.0	orange and 1st
+282	0.1	orange and 2nd
+283	0.2	orange and 3rd
+284	0.1	orange and 4th
+285	0.6	orange and 5th
+286	0.2	orange and 6th
+287	0.3	orange and 7th
+288	0.2	orange and 8th
+289	0.9	orange and 9th
+290	0.0	orange and 10th
+291	0.6	orange and 21st
+292	0.4	orange and 22nd
+293	0.6	orange and 23rd
+294	0.6	orange and 24th
+295	0.3	orange and 25th
+296	0.2	orange and 26th
+297	0.1	orange and 27th
+298	0.3	orange and 28th
+299	0.9	orange and 29th
+300	0.1	orange and 30th
+301	0.0	prince and 1st
+302	0.8	prince and 2nd
+303	0.7	prince and 3rd
+304	0.2	prince and 4th
+305	1.0	prince and 5th
+306	0.1	prince and 6th
+307	0.9	prince and 7th
+308	1.0	prince and 8th
+309	0.2	prince and 9th
+310	0.9	prince and 10th
+311	0.8	prince and 21st
+312	0.5	prince and 22nd
+313	0.4	prince and 23rd
+314	0.4	prince and 24th
+315	0.1	prince and 25th
+316	0.0	prince and 26th
+317	0.3	prince and 27th
+318	0.3	prince and 28th
+319	0.6	prince and 29th
+320	0.5	prince and 30th
+321	0.9	Broadway and 1st
+322	0.4	Broadway and 2nd
+323	0.7	Broadway and 3rd
+324	0.1	Broadway and 4th
+325	0.2	Broadway and 5th
+326	0.4	Broadway and 6th
+327	0.0	Broadway and 7th
+328	0.6	Broadway and 8th
+329	0.2	Broadway and 9th
+330	0.8	Broadway and 10th
+331	0.9	Broadway and 21st
+332	0.2	Broadway and 22nd
+333	0.9	Broadway and 23rd
+334	0.6	Broadway and 24th
+335	0.8	Broadway and 25th
+336	1.0	Broadway and 26th
+337	0.6	Broadway and 27th
+338	0.9	Broadway and 28th
+339	0.5	Broadway and 29th
+340	0.3	Broadway and 30th
+341	0.0	Helen and 1st
+342	0.2	Helen and 2nd
+343	0.9	Helen and 3rd
+344	0.2	Helen and 4th
+345	0.5	Helen and 5th
+346	0.6	Helen and 6th
+347	0.5	Helen and 7th
+348	0.8	Helen and 8th
+349	0.0	Helen and 9th
+350	1.0	Helen and 10th
+351	0.9	Helen and 21st
+352	0.4	Helen and 22nd
+353	0.2	Helen and 23rd
+354	0.3	Helen and 24th
+355	0.2	Helen and 25th
+356	0.0	Helen and 26th
+357	0.1	Helen and 27th
+358	0.6	Helen and 28th
+359	0.5	Helen and 29th
+360	0.5	Helen and 30th
+361	0.6	Mabel and 1st
+362	0.9	Mabel and 2nd
+363	0.2	Mabel and 3rd
+364	0.4	Mabel and 4th
+365	0.9	Mabel and 5th
+366	0.3	Mabel and 6th
+367	0.5	Mabel and 7th
+368	0.4	Mabel and 8th
+369	0.4	Mabel and 9th
+370	0.8	Mabel and 10th
+371	0.8	Mabel and 21st
+372	0.9	Mabel and 22nd
+373	0.8	Mabel and 23rd
+374	0.0	Mabel and 24th
+375	0.0	Mabel and 25th
+376	0.4	Mabel and 26th
+377	1.0	Mabel and 27th
+378	0.0	Mabel and 28th
+379	0.0	Mabel and 29th
+380	0.1	Mabel and 30th
+381	1.0	Drachman and 1st
+382	0.4	Drachman and 2nd
+383	0.1	Drachman and 3rd
+384	0.6	Drachman and 4th
+385	0.7	Drachman and 5th
+386	0.7	Drachman and 6th
+387	0.6	Drachman and 7th
+388	0.0	Drachman and 8th
+389	0.4	Drachman and 9th
+390	0.1	Drachman and 10th
+391	0.8	Drachman and 21st
+392	0.3	Drachman and 22nd
+393	0.7	Drachman and 23rd
+394	0.2	Drachman and 24th
+395	0.3	Drachman and 25th
+396	0.1	Drachman and 26th
+397	0.4	Drachman and 27th
+398	0.8	Drachman and 28th
+399	1.0	Drachman and 29th
+400	0.9	Drachman and 30th
+
+STREETS:
+1	2	1.0
+2	3	0.6
+3	4	1.0
+4	5	0.7
+5	6	0.4
+6	7	0.2
+7	8	0.6
+8	9	0.2
+9	10	0.2
+10	11	0.5
+11	12	0.6
+12	13	0.2
+13	14	0.3
+14	15	0.9
+15	16	0.9
+16	17	0.4
+17	18	0.4
+18	19	0.5
+19	20	0.9
+21	22	0.9
+22	23	0.8
+23	24	0.8
+24	25	0.6
+25	26	0.4
+26	27	0.9
+27	28	0.1
+28	29	0.8
+29	30	0.1
+30	31	0.7
+31	32	0.3
+32	33	0.3
+33	34	1.0
+34	35	0.1
+35	36	1.0
+36	37	1.0
+37	38	0.8
+38	39	0.3
+39	40	0.5
+41	42	0.7
+42	43	0.2
+43	44	0.1
+44	45	0.8
+45	46	0.7
+46	47	0.4
+47	48	0.3
+48	49	0.4
+49	50	0.7
+50	51	0.3
+51	52	0.3
+52	53	0.1
+53	54	0.3
+54	55	0.4
+55	56	0.3
+56	57	0.4
+57	58	0.4
+58	59	0.5
+59	60	0.9
+61	62	0.9
+62	63	0.6
+63	64	0.1
+64	65	1.0
+65	66	0.1
+66	67	0.7
+67	68	0.3
+68	69	0.6
+69	70	0.6
+70	71	0.1
+71	72	0.8
+72	73	0.1
+73	74	0.5
+74	75	0.6
+75	76	0.6
+76	77	0.1
+77	78	0.9
+78	79	0.9
+79	80	0.3
+81	82	0.6
+82	83	0.3
+83	84	0.7
+84	85	0.6
+85	86	0.6
+86	87	0.4
+87	88	0.3
+88	89	0.8
+89	90	0.5
+90	91	1.0
+91	92	0.8
+92	93	0.4
+93	94	0.7
+94	95	0.9
+95	96	1.0
+96	97	0.4
+97	98	0.7
+98	99	0.8
+99	100	0.7
+101	102	0.9
+102	103	0.4
+103	104	0.3
+104	105	0.2
+105	106	0.3
+106	107	0.3
+107	108	0.4
+108	109	0.1
+109	110	0.6
+110	111	0.4
+111	112	0.2
+112	113	0.8
+113	114	0.7
+114	115	1.0
+115	116	0.5
+116	117	1.0
+117	118	0.9
+118	119	0.9
+119	120	0.1
+121	122	1.0
+122	123	0.8
+123	124	0.6
+124	125	0.5
+125	126	0.6
+126	127	0.9
+127	128	1.0
+128	129	0.2
+129	130	0.1
+130	131	0.2
+131	132	0.4
+132	133	0.7
+133	134	0.3
+134	135	0.9
+135	136	0.8
+136	137	0.7
+137	138	0.6
+138	139	0.3
+139	140	0.6
+141	142	1.0
+142	143	0.2
+143	144	0.9
+144	145	0.2
+145	146	0.5
+146	147	0.2
+147	148	0.5
+148	149	0.9
+149	150	0.6
+150	151	0.8
+151	152	0.7
+152	153	0.8
+153	154	0.3
+154	155	0.7
+155	156	0.5
+156	157	0.8
+157	158	0.9
+158	159	0.7
+159	160	0.2
+161	162	0.6
+162	163	1.0
+163	164	0.7
+164	165	0.6
+165	166	0.2
+166	167	0.6
+167	168	0.8
+168	169	0.3
+169	170	0.2
+170	171	0.7
+171	172	0.6
+172	173	0.5
+173	174	0.9
+174	175	0.8
+175	176	0.3
+176	177	0.2
+177	178	0.2
+178	179	0.4
+179	180	0.1
+181	182	0.8
+182	183	0.4
+183	184	0.4
+184	185	0.4
+185	186	0.5
+186	187	0.3
+187	188	0.4
+188	189	0.5
+189	190	0.4
+190	191	0.9
+191	192	0.4
+192	193	0.5
+193	194	0.3
+194	195	0.8
+195	196	0.2
+196	197	1.0
+197	198	0.8
+198	199	0.6
+199	200	0.9
+201	202	1.0
+202	203	0.5
+203	204	0.9
+204	205	0.5
+205	206	0.4
+206	207	0.9
+207	208	0.8
+208	209	0.1
+209	210	0.9
+210	211	0.5
+211	212	0.1
+212	213	0.2
+213	214	0.2
+214	215	0.5
+215	216	0.5
+216	217	0.5
+217	218	0.4
+218	219	0.3
+219	220	1.0
+221	222	0.3
+222	223	1.0
+223	224	0.3
+224	225	0.1
+225	226	0.1
+226	227	0.3
+227	228	0.1
+228	229	0.6
+229	230	0.3
+230	231	1.0
+231	232	0.7
+232	233	0.9
+233	234	0.4
+234	235	0.9
+235	236	0.2
+236	237	1.0
+237	238	0.2
+238	239	0.3
+239	240	0.6
+241	242	0.7
+242	243	1.0
+243	244	0.4
+244	245	0.8
+245	246	0.3
+246	247	1.0
+247	248	0.8
+248	249	0.6
+249	250	0.4
+250	251	0.6
+251	252	0.6
+252	253	0.7
+253	254	0.6
+254	255	1.0
+255	256	0.5
+256	257	0.8
+257	258	1.0
+258	259	0.9
+259	260	0.2
+261	262	0.3
+262	263	0.5
+263	264	0.1
+264	265	0.1
+265	266	0.3
+266	267	0.7
+267	268	0.6
+268	269	0.7
+269	270	0.1
+270	271	0.5
+271	272	0.1
+272	273	0.5
+273	274	0.1
+274	275	0.3
+275	276	0.8
+276	277	0.9
+277	278	0.8
+278	279	0.9
+279	280	0.7
+281	282	1.0
+282	283	0.1
+283	284	1.0
+284	285	0.8
+285	286	1.0
+286	287	0.9
+287	288	0.3
+288	289	0.7
+289	290	0.6
+290	291	0.9
+291	292	0.2
+292	293	0.4
+293	294	0.5
+294	295	1.0
+295	296	0.3
+296	297	0.5
+297	298	0.4
+298	299	1.0
+299	300	1.0
+301	302	0.6
+302	303	0.2
+303	304	0.7
+304	305	0.7
+305	306	0.2
+306	307	0.4
+307	308	0.9
+308	309	0.4
+309	310	0.7
+310	311	0.1
+311	312	0.7
+312	313	0.4
+313	314	0.8
+314	315	0.5
+315	316	0.3
+316	317	0.7
+317	318	0.7
+318	319	0.5
+319	320	0.8
+321	322	0.7
+322	323	0.2
+323	324	0.4
+324	325	0.9
+325	326	0.3
+326	327	0.1
+327	328	0.2
+328	329	1.0
+329	330	0.6
+330	331	0.7
+331	332	0.6
+332	333	0.2
+333	334	0.4
+334	335	0.3
+335	336	0.8
+336	337	1.0
+337	338	0.7
+338	339	0.1
+339	340	0.2
+341	342	0.6
+342	343	0.9
+343	344	0.8
+344	345	0.2
+345	346	0.6
+346	347	0.8
+347	348	0.3
+348	349	1.0
+349	350	0.5
+350	351	0.9
+351	352	0.1
+352	353	1.0
+353	354	0.6
+354	355	0.5
+355	356	0.2
+356	357	0.1
+357	358	0.6
+358	359	0.6
+359	360	1.0
+361	362	0.9
+362	363	0.2
+363	364	0.8
+364	365	0.7
+365	366	0.5
+366	367	0.1
+367	368	0.3
+368	369	0.2
+369	370	0.1
+370	371	0.4
+371	372	0.6
+372	373	0.1
+373	374	0.7
+374	375	0.9
+375	376	0.7
+376	377	0.9
+377	378	0.6
+378	379	0.5
+379	380	0.6
+381	382	0.9
+382	383	0.3
+383	384	0.3
+384	385	0.6
+385	386	0.4
+386	387	0.1
+387	388	0.4
+388	389	0.7
+389	390	0.5
+390	391	0.3
+391	392	0.4
+392	393	0.3
+393	394	0.2
+394	395	1.0
+395	396	0.6
+396	397	0.7
+397	398	0.2
+398	399	0.5
+399	400	0.7
+1	21	0.4
+2	22	0.8
+3	23	2.2
+4	24	0.4
+5	25	0.3
+6	26	0.9
+7	27	1.8
+8	28	2.3
+9	29	2.9
+10	30	1.1
+11	31	1.8
+12	32	1.0
+13	33	1.4
+14	34	2.6
+15	35	3.4
+16	36	5.2
+17	37	1.3
+18	38	0.5
+19	39	1.1
+20	40	0.1
+21	41	0.6
+22	42	0.8
+23	43	0.7
+24	44	1.3
+25	45	2.2
+26	46	3.3
+27	47	0.1
+28	48	0.2
+29	49	1.2
+30	50	0.8
+31	51	1.3
+32	52	0.3
+33	53	0.3
+34	54	1.5
+35	55	0.6
+36	56	1.9
+37	57	0.2
+38	58	0.8
+39	59	1.2
+40	60	1.9
+41	61	0.1
+42	62	1.6
+43	63	0.2
+44	64	0.4
+45	65	1.2
+46	66	0.2
+47	67	0.9
+48	68	1.0
+49	69	1.7
+50	70	2.8
+51	71	2.1
+52	72	0.2
+53	73	0.1
+54	74	0.9
+55	75	0.7
+56	76	0.5
+57	77	0.1
+58	78	1.0
+59	79	1.5
+60	80	1.0
+61	81	0.7
+62	82	0.2
+63	83	0.2
+64	84	0.1
+65	85	1.3
+66	86	0.2
+67	87	0.5
+68	88	1.1
+69	89	2.2
+70	90	0.3
+71	91	0.2
+72	92	0.8
+73	93	0.8
+74	94	0.8
+75	95	2.3
+76	96	2.9
+77	97	3.1
+78	98	3.9
+79	99	3.8
+80	100	4.0
+81	101	0.3
+82	102	1.0
+83	103	0.3
+84	104	1.2
+85	105	0.7
+86	106	1.3
+87	107	0.6
+88	108	0.9
+89	109	0.6
+90	110	1.4
+91	111	1.6
+92	112	1.3
+93	113	1.6
+94	114	0.3
+95	115	1.7
+96	116	2.8
+97	117	1.3
+98	118	2.5
+99	119	4.0
+100	120	0.4
+101	121	0.2
+102	122	1.2
+103	123	1.0
+104	124	1.1
+105	125	1.6
+106	126	0.7
+107	127	1.3
+108	128	0.3
+109	129	0.6
+110	130	0.8
+111	131	0.4
+112	132	0.6
+113	133	0.3
+114	134	0.8
+115	135	2.6
+116	136	1.1
+117	137	0.7
+118	138	1.2
+119	139	2.3
+120	140	0.8
+121	141	0.6
+122	142	0.4
+123	143	0.2
+124	144	1.5
+125	145	1.3
+126	146	2.0
+127	147	1.6
+128	148	2.1
+129	149	1.4
+130	150	2.0
+131	151	0.6
+132	152	0.4
+133	153	0.3
+134	154	0.8
+135	155	1.2
+136	156	2.4
+137	157	1.5
+138	158	1.0
+139	159	1.2
+140	160	1.6
+141	161	0.3
+142	162	1.5
+143	163	1.6
+144	164	0.2
+145	165	0.9
+146	166	0.2
+147	167	0.1
+148	168	1.0
+149	169	1.3
+150	170	1.3
+151	171	2.5
+152	172	2.8
+153	173	2.2
+154	174	0.6
+155	175	0.1
+156	176	0.9
+157	177	1.3
+158	178	1.1
+159	179	1.3
+160	180	1.3
+161	181	1.0
+162	182	1.3
+163	183	0.7
+164	184	1.0
+165	185	0.7
+166	186	1.4
+167	187	0.6
+168	188	1.5
+169	189	2.3
+170	190	1.3
+171	191	1.6
+172	192	0.7
+173	193	0.1
+174	194	0.6
+175	195	1.2
+176	196	0.4
+177	197	0.4
+178	198	0.8
+179	199	0.8
+180	200	0.2
+181	201	0.2
+182	202	0.7
+183	203	0.8
+184	204	1.4
+185	205	1.1
+186	206	0.2
+187	207	1.4
+188	208	2.2
+189	209	0.3
+190	210	1.3
+191	211	1.2
+192	212	1.7
+193	213	1.7
+194	214	0.7
+195	215	0.9
+196	216	0.5
+197	217	1.7
+198	218	0.9
+199	219	1.3
+200	220	1.4
+201	221	0.9
+202	222	2.1
+203	223	2.9
+204	224	2.8
+205	225	1.9
+206	226	1.6
+207	227	1.1
+208	228	2.0
+209	229	0.7
+210	230	1.0
+211	231	0.3
+212	232	1.0
+213	233	1.1
+214	234	0.9
+215	235	0.1
+216	236	0.6
+217	237	0.5
+218	238	0.9
+219	239	0.6
+220	240	1.4
+221	241	0.1
+222	242	0.4
+223	243	1.3
+224	244	0.7
+225	245	0.6
+226	246	1.0
+227	247	0.8
+228	248	1.2
+229	249	2.2
+230	250	2.9
+231	251	3.8
+232	252	3.2
+233	253	3.9
+234	254	4.4
+235	255	0.4
+236	256	1.1
+237	257	1.3
+238	258	1.7
+239	259	1.4
+240	260	0.7
+241	261	0.8
+242	262	0.6
+243	263	0.4
+244	264	0.2
+245	265	0.4
+246	266	0.4
+247	267	0.7
+248	268	0.9
+249	269	1.8
+250	270	0.6
+251	271	0.9
+252	272	1.4
+253	273	1.6
+254	274	1.9
+255	275	2.6
+256	276	1.1
+257	277	0.7
+258	278	2.2
+259	279	1.0
+260	280	0.3
+261	281	0.8
+262	282	1.6
+263	283	0.3
+264	284	0.2
+265	285	0.5
+266	286	0.1
+267	287	1.5
+268	288	1.6
+269	289	1.9
+270	290	1.1
+271	291	0.4
+272	292	0.7
+273	293	1.6
+274	294	1.9
+275	295	0.6
+276	296	0.5
+277	297	1.4
+278	298	0.1
+279	299	0.3
+280	300	1.2
+281	301	0.9
+282	302	2.0
+283	303	2.3
+284	304	1.9
+285	305	3.3
+286	306	0.2
+287	307	0.4
+288	308	1.2
+289	309	0.2
+290	310	0.3
+291	311	0.1
+292	312	0.3
+293	313	0.5
+294	314	0.4
+295	315	1.8
+296	316	1.6
+297	317	0.1
+298	318	0.9
+299	319	1.6
+300	320	0.1
+301	321	0.7
+302	322	0.5
+303	323	0.6
+304	324	1.5
+305	325	0.8
+306	326	0.3
+307	327	0.1
+308	328	0.9
+309	329	1.2
+310	330	0.1
+311	331	0.8
+312	332	1.9
+313	333	2.1
+314	334	1.3
+315	335	0.2
+316	336	1.0
+317	337	0.2
+318	338	0.1
+319	339	0.1
+320	340	0.5
+321	341	0.7
+322	342	0.1
+323	343	0.6
+324	344	0.7
+325	345	1.3
+326	346	1.8
+327	347	2.5
+328	348	1.5
+329	349	1.3
+330	350	0.3
+331	351	0.8
+332	352	1.3
+333	353	1.3
+334	354	0.2
+335	355	0.8
+336	356	0.9
+337	357	0.6
+338	358	1.0
+339	359	1.1
+340	360	0.2
+341	361	0.7
+342	362	0.3
+343	363	1.4
+344	364	1.1
+345	365	1.1
+346	366	1.5
+347	367	1.4
+348	368	0.1
+349	369	0.9
+350	370	1.4
+351	371	1.5
+352	372	2.1
+353	373	1.8
+354	374	1.9
+355	375	1.4
+356	376	0.1
+357	377	1.0
+358	378	1.9
+359	379	2.8
+360	380	3.4
+361	381	0.1
+362	382	1.5
+363	383	0.8
+364	384	1.0
+365	385	0.8
+366	386	0.6
+367	387	0.1
+368	388	0.4
+369	389	0.6
+370	390	0.9
+371	391	0.6
+372	392	0.7
+373	393	0.7
+374	394	0.2
+375	395	2.1
+376	396	2.6
+377	397	0.1
+378	398	0.5
+379	399	0.5
+380	400	0.9

@@ -1,0 +1,11 @@
+INTERSECTIONS:
+3 0.3 mountain and speedway
+4 0.5 speedway and 1st
+9 0.2 speedway and 2rd
+5 o.6 park and mountain
+
+STREETS:
+3 4 3
+3 4 7
+4 5 1
+9 5 2
